@@ -57,7 +57,7 @@ jobs:
           path: target/
 
       - name: Show Dir
-        run: pwd;ls
+        run: pwd;ls;ls target
 
       - name: Fetch latest version
         id: fetch_version
