@@ -11,7 +11,7 @@ image:
   name: contoso-website
   tag: latest
 dns:
-  name:  e691b9036651443e9bb7.eastus.aksapp.io
+  name: e691b9036651443e9bb7.eastus.aksapp.io
 
 imagePullSecrets: []
 nameOverride: ""
