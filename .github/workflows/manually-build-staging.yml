@@ -1,4 +1,4 @@
-name: Manually build and push the tagged build to production
+name: Manually build and push the tagged build to staging
 
 on: workflow_dispatch
 
